@@ -1,5 +1,3 @@
-package InputFIeld;
-
 import java.text.MessageFormat;
 import java.util.regex.Pattern;
 
